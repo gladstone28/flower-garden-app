@@ -48,3 +48,11 @@ main {
   flex: 1;
   padding: 2rem;
 }
+
+/* Add this to App.css or create a separate file */
+.flower-list {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin: 2rem 0;
+}
